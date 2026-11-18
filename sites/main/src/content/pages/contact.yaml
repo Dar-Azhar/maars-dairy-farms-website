@@ -14,6 +14,6 @@ blocks:
   - blockType: contact
     anchor: Anchor
     tone: white
-    eyebrow: Eyebrow
-    title: Title
+    eyebrow: "Got a query?"
+    title: "connect with us"
     lead: Lead
