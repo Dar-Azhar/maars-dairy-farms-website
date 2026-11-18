@@ -6,14 +6,8 @@ updatedAt: 2026-11-18
 blocks:
   - blockType: hero
     title: Contact
-    lead: ""
+    lead: "contact us and we will get back to you"
     buttons:
       - label: "Contact us"
         href: /
     variant: home
-  - blockType: contact
-    anchor: Anchor
-    tone: white
-    eyebrow: "Got a query?"
-    title: "connect with us"
-    lead: "we are here to serve you with high quality dairy products"
