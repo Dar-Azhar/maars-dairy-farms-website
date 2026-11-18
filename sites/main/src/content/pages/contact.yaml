@@ -11,3 +11,9 @@ blocks:
       - label: "Contact us"
         href: /
     variant: home
+  - blockType: contact
+    anchor: Anchor
+    tone: white
+    eyebrow: Eyebrow
+    title: Title
+    lead: Lead
