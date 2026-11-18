@@ -1,0 +1,9 @@
+title: blogs
+seo:
+  title: blogs
+  description: "Check our insights"
+updatedAt: 2026-11-18
+blocks:
+  - blockType: hero
+    title: blogs
+    lead: "Read our Blogs"
