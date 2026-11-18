@@ -1,0 +1,13 @@
+title: Contact
+seo:
+  title: Contact
+  description: "Have a question,  reach out to use at test@test.com"
+updatedAt: 2026-11-18
+blocks:
+  - blockType: hero
+    title: Contact
+    lead: ""
+    buttons:
+      - label: "Contact us"
+        href: /
+    variant: home
