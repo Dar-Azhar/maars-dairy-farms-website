@@ -1,0 +1,20 @@
+{
+  "name": "MAARS Farms",
+  "description": "This is a  dairy farm and they provide all types of dairy products under the brand name of MAARS  including domestic and local sully of milk to households.",
+  "businessType": "LocalBusiness",
+  "contact": {
+    "email": "dev.darazhar@gmail.com",
+    "phone": "0113 496 0000"
+  },
+  "address": {
+    "locality": "Beerwah, Budgam",
+    "country": "IN"
+  },
+  "areasServed": [
+    "Budgam",
+    "Srinagar"
+  ],
+  "openingHours": [],
+  "logo": "/media/logo.svg",
+  "social": []
+}

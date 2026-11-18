@@ -1,0 +1,62 @@
+[
+  {
+    "path": "/",
+    "expect": 200,
+    "kind": "page",
+    "why": "built page"
+  },
+  {
+    "path": "/about",
+    "expect": 301,
+    "to": "/",
+    "why": "redirects.ts"
+  },
+  {
+    "path": "/contact",
+    "expect": 301,
+    "to": "/",
+    "why": "redirects.ts"
+  },
+  {
+    "path": "/contact-us",
+    "expect": 301,
+    "to": "/",
+    "why": "redirects.ts"
+  },
+  {
+    "path": "/home",
+    "expect": 301,
+    "to": "/",
+    "why": "redirects.ts"
+  },
+  {
+    "path": "/index",
+    "expect": 301,
+    "to": "/",
+    "why": "redirects.ts"
+  },
+  {
+    "path": "/llms.txt",
+    "expect": 200,
+    "kind": "file",
+    "why": "generated file"
+  },
+  {
+    "path": "/robots.txt",
+    "expect": 200,
+    "kind": "file",
+    "why": "generated file"
+  },
+  {
+    "path": "/services",
+    "expect": 301,
+    "to": "/",
+    "why": "redirects.ts"
+  },
+  {
+    "path": "/sitemap.xml",
+    "expect": 200,
+    "kind": "file",
+    "why": "generated file"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "colours": {
+    "primary": "#0F172A",
+    "accent": "#0F172A"
+  },
+  "fonts": {
+    "heading": "Manrope",
+    "body": "Manrope"
+  },
+  "look": {
+    "header": "minimal",
+    "footer": "simple",
+    "headingWeight": "bold",
+    "headingSize": "larger"
+  }
+}

@@ -1,0 +1,83 @@
+title: "Home"
+seo:
+  title: "MAARS Farms | Garden care in Beerwah, Budgam"
+  description: "This is a  dairy farm and they provide all types of dairy products under the brand name of MAARS  including domestic and local sully of milk to households."
+updatedAt: 2026-10-19
+blocks:
+  - blockType: hero
+    variant: home
+    eyebrow: "Garden care in Beerwah, Budgam"
+    title: "A garden you can enjoy, without the hard work"
+    lead: "This is a  dairy farm and they provide all types of dairy products under the brand name of MAARS  including domestic and local sully of milk to households."
+    buttons:
+      - label: Get in touch
+        href: "/#contact"
+      - label: What we do
+        href: "/#services"
+    points:
+      - Regular visits or one-off jobs
+      - Green waste taken away
+      - Friendly, reliable and insured
+      - Free quotes
+
+  - blockType: features
+    anchor: services
+    eyebrow: Services
+    title: What we do
+    items:
+      - icon: Scissors
+        title: Garden maintenance
+        text: Mowing, hedge trimming, weeding and pruning, weekly, fortnightly or monthly.
+      - icon: Sprout
+        title: Planting
+        text: New borders, seasonal planting and advice on what will thrive in your garden.
+      - icon: Shovel
+        title: Tidy-ups and small projects
+        text: Overgrown gardens cleared, paths edged and beds made ready for the season.
+
+  - blockType: split
+    anchor: about
+    tone: white
+    eyebrow: About
+    title: "Hello, we're MAARS Farms"
+    body: |
+      Introduce yourself here: who you are, how long you've been doing this, and why you love it. Customers like to know who will be in their garden.
+    highlight:
+      title: Why people choose us
+      items:
+        - We turn up when we say we will
+        - We leave everything tidy
+        - Clear prices before we start
+
+  - blockType: testimonials
+    anchor: reviews
+    tone: tint
+    eyebrow: Reviews
+    title: What customers say
+    items:
+      - quote: "Replace this with a real review from a customer, in their own words. Reviews you publish must be genuine."
+        name: Sample review
+        detail: "Regular maintenance, Beerwah, Budgam"
+        rating: 5
+      - quote: "A second real review, used with the customer's permission."
+        name: Sample review
+        detail: "Garden clearance"
+        rating: 5
+
+  - blockType: faq
+    anchor: questions
+    title: Questions
+    items:
+      - question: Do you take the green waste away?
+        answer: Yes, garden waste goes with us and is composted.
+      - question: Do I need to be home when you visit?
+        answer: No, as long as we can get into the garden. We'll send a message when we're done.
+      - question: How much does it cost?
+        answer: It depends on the size of the garden and how often we visit. Ask for a free quote.
+
+  - blockType: contact
+    anchor: contact
+    tone: white
+    eyebrow: Contact
+    title: Get a free quote
+    lead: "Tell us about your garden and what you'd like done, and we'll get back to you."
